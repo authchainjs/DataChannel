@@ -1149,7 +1149,7 @@
                     SignalingSettings = defaultSignaling
                 }
 
-                // IEEF Setup WebSocket Connetion
+                // IIEF Setup WebSocket Connetion
                 ;(function SetupWebSocketConnect() {
                     let AttempyNewConnection = () => {
                         if ( SignalingSettings.list.length >= 1 ) {
