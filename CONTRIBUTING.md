@@ -20,7 +20,7 @@
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable behavior to [subversivo58@gmail.com](mailto:subversivo58@gmail.com?subject=CONDUCT).
+By participating, you are expected to uphold this code. Please report unacceptable behavior to [authchainjs@gmail.com](mailto:authchainjs@gmail.com?subject=CONDUCT).
 
 
 ## How Can I Contribute?
@@ -117,4 +117,4 @@ The following example references this template:
 
 This source code is licensed under [The MIT License (MIT)](LICENSE)
 
-If you believe that the other sources (of third parties) may contain a conflict with this license please contact us in this email: [subversivo58@gmail.com](mailto:subversivo58@gmail.com?subject=LICENSE)
+If you believe that the other sources (of third parties) may contain a conflict with this license please contact us in this email: [authchainjs@gmail.com](mailto:authchainjs@gmail.com?subject=LICENSE)
