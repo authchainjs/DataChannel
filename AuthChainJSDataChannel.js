@@ -1,6 +1,6 @@
 /**
  * This "DataChannel" library is derivation of original work of Muaz Khan [www.muazkhan.com]:
- *   -- @source                                 - [https://github.com/muaz-khan/WebRTC-Experiment/blob/master/DataChannel/DataChannel.js]
+ *   -- @see                                    - [https://github.com/muaz-khan/WebRTC-Experiment/blob/master/DataChannel/DataChannel.js]
  *   -- @copyright Copyright (c) 2017 Muaz Khan - [https://github.com/muaz-khan]
  *   -- @license The MIT License (MIT)          - [https://github.com/muaz-khan/WebRTC-Experiment/blob/master/LICENSE]
  *
@@ -1129,7 +1129,7 @@
             if ( typeof settings !== 'object' && !('server' in settings) ) {
                 throw new Error(`AuthChainJS requires valid {Object} configuration with key "server"`)
             }
-            if ( !/ws:\/\//g.test(settings.server) ) {
+            if ( !/wss:\/\//g.test(settings.server) ) {
                 reject('Failed, Signaling Server URL not is WebSoket protocol!')
             } else {
                 // Debug
